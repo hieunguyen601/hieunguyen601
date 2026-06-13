@@ -84,19 +84,6 @@ class Henry:
 </a>
 
 </div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/hieunguyen601/hieunguyen601/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 *"Striving to write code that's clean, fast, and a little bit fun."*
