@@ -8,8 +8,8 @@
 <!-- Profile views + socials -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=hieunguyen601&label=Profile%20views&color=38BDAF&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/henry-nguyen-37a588252//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@harrynguyenpython2056"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 </div>
