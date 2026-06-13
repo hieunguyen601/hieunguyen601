@@ -2,7 +2,7 @@
 
 <!-- Animated typing banner -->
 <a href="https://github.com/hieunguyen601">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Henry+Hieu+Nguyen+%F0%9F%91%8B;CS+Student+%40+University+of+Houston;Aspiring+Software+Engineer;Frontend+Developer+%7C+IT+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Henry+Hieu+Nguyen+%F0%9F%91%8B;CS+Student+%40+University+of+Houston;Aspiring+Software+Engineer;Frontend+Developer+%7C+Web+Developer+Intern" alt="Typing SVG" />
 </a>
 
 <!-- Profile views + socials -->
