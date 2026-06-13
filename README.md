@@ -23,7 +23,7 @@ class Henry:
     def __init__(self):
         self.role        = "CS Student & Aspiring SWE"
         self.school      = "University of Houston (B.S. CS, '27)"
-        self.current     = "IT Intern @ Fort Bend County"
+        self.current     = "Web Developer Intern @ Fort Bend County"
         self.focus       = ["Frontend Dev", "DSA / LeetCode", "Full-Stack"]
         self.languages   = ["English", "Tiếng Việt"]
         self.goal        = "Software Engineer @ a top tech company"
