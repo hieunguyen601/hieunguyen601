@@ -134,13 +134,6 @@ alt="Henry's GitHub contribution streak"
   />
 </a>
 
-<a href="https://www.youtube.com/@harrynguyenpython2056">
-  <img
-    src="https://img.shields.io/badge/YouTube-Henry_Nguyen-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="Visit Henry's YouTube channel"
-  />
-</a>
-
 </div>
 
 <br>
