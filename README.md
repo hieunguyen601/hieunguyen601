@@ -75,7 +75,7 @@ class HenryNguyen:
 
 ## 🚀 What I’m Working On
 
-* Building responsive websites with **HTML, CSS, JavaScript, and React**
+* Building responsive websites with **HTML, CSS, JavaScript, TypeScript, and React**
 * Improving my knowledge of **Node.js and full-stack development**
 * Practicing **data structures, algorithms, and LeetCode**
 * Learning from real-world projects during my internship
@@ -92,6 +92,7 @@ class HenryNguyen:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 
 ### Backend and Databases
@@ -103,7 +104,8 @@ class HenryNguyen:
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Tools
 
@@ -114,6 +116,8 @@ class HenryNguyen:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
 
 </div>
+
+---
 
 ## 🔥 Contribution Streak
 
