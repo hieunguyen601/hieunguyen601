@@ -57,8 +57,6 @@ class Henry:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hieunguyen601&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hieunguyen601&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen601&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF" height="165" />
 
