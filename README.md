@@ -25,7 +25,7 @@ class Henry:
         self.school      = "University of Houston (B.S. CS, '27)"
         self.current     = "Web Developer Intern @ Fort Bend County"
         self.focus       = ["Frontend Dev", "DSA / LeetCode", "Full-Stack"]
-        self.languages   = ["English", "Tiếng Việt"]
+        self.languages   = ["English", "Vietnamese"]
         self.goal        = "Software Engineer @ a top tech company"
 
     def say_hi(self):
