@@ -1,70 +1,159 @@
 <div align="center">
 
-<!-- Animated typing banner -->
 <a href="https://github.com/hieunguyen601">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Henry+Hieu+Nguyen+%F0%9F%91%8B;CS+Student+%40+University+of+Houston;Software+Engineer;Web+Developer+Intern" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDAF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Henry+Hieu+Nguyen+%F0%9F%91%8B;Computer+Science+Student+at+UH;Web+Developer+Intern;Aspiring+Software+Engineer"
+    alt="Typing introduction"
+  />
 </a>
 
-<!-- Profile views + socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hieunguyen601&label=Profile%20views&color=38BDAF&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/henry-nguyen-37a588252//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@harrynguyenpython2056"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/hieunguyen601">
+    <img
+      src="https://komarev.com/ghpvc/?username=hieunguyen601&label=Profile%20Views&color=38BDAF&style=flat"
+      alt="Profile views"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/henry-nguyen-37a588252/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.youtube.com/@harrynguyenpython2056">
+    <img
+      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
+  </a>
+</p>
+
+<p>
+  Computer Science student passionate about building responsive, user-friendly, and practical software.
 </p>
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
-class Henry:
+class HenryNguyen:
     def __init__(self):
-        self.role        = "CS Student & Aspiring SWE"
-        self.school      = "University of Houston (B.S. CS, '27)"
-        self.current     = "Web Developer Intern @ Fort Bend County"
-        self.focus       = ["Frontend Dev", "DSA / LeetCode", "Full-Stack"]
-        self.languages   = ["English", "Vietnamese"]
-        self.goal        = "Software Engineer @ a top tech company"
+        self.name = "Henry Hieu Nguyen"
+        self.role = "Computer Science Student & Aspiring Software Engineer"
+        self.school = "University of Houston"
+        self.graduation = "2027"
+        self.current_position = "Web Developer Intern at Fort Bend County"
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something! 🚀")
+        self.interests = [
+            "Frontend Development",
+            "Backend Development",
+            "Full-Stack Development",
+            "Data Structures and Algorithms",
+            "Problem Solving"
+        ]
+
+        self.languages = ["English", "Vietnamese"]
+
+    def current_goals(self):
+        return [
+            "Build real-world software projects",
+            "Improve my React and full-stack skills",
+            "Practice data structures and algorithms",
+            "Become a professional software engineer"
+        ]
+
+    def say_hello(self):
+        print("Thanks for visiting my profile. Let's build something great! 🚀")
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I’m Working On
+
+* Building responsive websites with **HTML, CSS, JavaScript, and React**
+* Improving my knowledge of **Node.js and full-stack development**
+* Practicing **data structures, algorithms, and LeetCode**
+* Learning from real-world projects during my internship
+* Creating projects that solve practical problems
+
+---
+
+## 🛠️ Languages and Technologies
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+
+### Backend and Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=hieunguyen601&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF"
+alt="Henry's GitHub contribution streak"
+/>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen601&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF" height="165" />
+<a href="https://www.linkedin.com/in/henry-nguyen-37a588252/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Henry_Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with Henry on LinkedIn"
+  />
+</a>
+
+<a href="https://www.youtube.com/@harrynguyenpython2056">
+  <img
+    src="https://img.shields.io/badge/YouTube-Henry_Nguyen-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="Visit Henry's YouTube channel"
+  />
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-*"Striving to write code that's clean, fast, and a little bit fun."*
+### Thanks for visiting my profile! 👋
+
+*"Always learning, always improving, and always building."*
 
 </div>
