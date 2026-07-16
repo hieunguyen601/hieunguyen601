@@ -66,24 +66,6 @@ class Henry:
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hieunguyen601/Henry-Nguyen---Portfolio-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen601&repo=Henry-Nguyen---Portfolio-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF" />
-</a>
-<a href="https://github.com/hieunguyen601/Weather-App-React-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen601&repo=Weather-App-React-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF" />
-</a>
-<a href="https://github.com/hieunguyen601/Github-user-search-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen601&repo=Github-user-search-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF" />
-</a>
-<a href="https://github.com/hieunguyen601/digitalbank-landing-page-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen601&repo=digitalbank-landing-page-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF" />
-</a>
-
-</div>
 <div align="center">
 
 *"Striving to write code that's clean, fast, and a little bit fun."*
