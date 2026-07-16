@@ -21,13 +21,6 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://www.youtube.com/@harrynguyenpython2056">
-    <img
-      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white"
-      alt="YouTube"
-    />
-  </a>
 </p>
 
 <p>
