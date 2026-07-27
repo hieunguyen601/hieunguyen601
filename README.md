@@ -37,7 +37,7 @@
 class HenryNguyen:
     def __init__(self):
         self.name = "Henry Hieu Nguyen"
-        self.role = "Computer Science Student & Aspiring Software Engineer"
+        self.role = "Computer Science Student & Software Engineer"
         self.school = "University of Houston"
         self.graduation = "2027"
         self.current_position = "Web Developer Intern at Fort Bend County"
