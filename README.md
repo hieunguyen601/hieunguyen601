@@ -91,7 +91,7 @@ class HenryNguyen:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-12a54f?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Programming Languages
 
